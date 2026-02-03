@@ -1,0 +1,24 @@
+{
+  "name": "bithub-api_new",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akshatsahu01/bithub-api_new.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Akshatsahu01/bithub-api_new/issues"
+  },
+  "homepage": "https://github.com/Akshatsahu01/bithub-api_new#readme",
+  "dependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
